@@ -1,0 +1,69 @@
+.par{
+    position: relative;
+    
+}
+.child{
+    position:absolute;
+    top: 50px;
+    left: 20px;
+    color: beige;
+}
+.up{
+    position: absolute;
+    top: 0px;
+    
+}
+.navbar-collapse{
+    flex-basis: 0%;
+    flex-grow: 0;
+    
+}
+.navbar  {
+    background-color: rgb(75, 78, 78);
+}
+.card-title{
+  padding: 8px;
+}
+.par img{
+  margin: 0 auto;
+}
+#id{
+  color: rgb(228, 218, 218);
+}
+#color{
+color: rgb(231, 216, 216);
+
+}
+.img{
+  width: 50%;
+  height:100px;
+  
+}
+.slider{
+  width: 90%;
+  height: 90%;
+}
+body{
+background-color:rgb(71, 67, 67);
+}
+.nav{
+padding: 20px;
+font-size: 25px;
+}
+.card{
+margin-right: 20px;
+}   
+.progress{
+font-size: 20px;
+
+}
+.hover{
+  margin-left: 100px;
+  cursor: pointer;
+  text-align: center;
+}   
+.center{
+  position: relative;
+  text-align:center;
+ padding-top: 100px;
+}   
